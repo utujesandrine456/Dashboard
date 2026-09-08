@@ -40,5 +40,3 @@ yarn-error.log*
 next-env.d.ts
 config.bat
 branch_structure.json
-temp_auto_push.bat
-temp_interactive_push.bat
